@@ -60,3 +60,10 @@
 ---
 
 <p align="center"><em>“Empowering communities through geospatial technology and open data.”</em></p>
+
+---
+
+### 📊 GitHub Stats
+
+![Shabani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShabaniMagawila&count_private=true&show_icons=true)
+
