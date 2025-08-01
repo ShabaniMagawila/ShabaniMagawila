@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hi there, I'm Shabani H. Magawila</h2>
 
 <p align="center">
-  Urban Planner • GIS & Remote Sensing Specialist • Python Developer<br>
+  Urban Planner • GIS & Remote Sensing Specialist • Python Developer • Geospatial Consultant<br>
   📍 Dodoma, Tanzania | 🌍 Founder of OpenGeoCity Tanzania
 </p>
 
@@ -34,6 +34,7 @@
 
 - 🧭 Former President – **IRDP YouthMappers** (Dodoma Chapter)
 - 🛰️ GIS & Mapping – **Ramani Huria**, **Crowd2Map**, **NBS Tanzania**
+- 💼 Consultant – GIS & Remote Sensing for planning, environment, and development projects
 - 💡 Intern – **Esri Eastern Africa** (Solution Architecture)
 - 🌍 Community Mapping – OpenStreetMap contributor across Tanzania
 
@@ -59,4 +60,3 @@
 ---
 
 <p align="center"><em>“Empowering communities through geospatial technology and open data.”</em></p>
-
