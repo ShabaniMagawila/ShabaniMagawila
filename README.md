@@ -22,10 +22,10 @@
 ### 🚀 Projects & Interests
 
 - 🗺️ **[tanzania-boundaries](#)**: A Python library to download ward/administrative boundaries of Tanzania
-- 🌾 **LULC Analysis**: Land Use and Land Cover classification using GEE and remote sensing indices
+- 🌾 **[LULC Analysis](https://code.earthengine.google.com/ff59f8823f418c55f01ffa5e7091d1fe)**: Land Use and Land Cover classification using GEE and remote sensing indices
 - 📡 **Mini GPS Tracker**: Built with Ai-Thinker A9G + ESP32 for SMS-based GPS tracking
 - 🌆 **Virtual City**: Creating animated 3D cities from 2D GIS maps using Blender + Unreal Engine
-- 📊 **Geospatial Dashboards**: Combining PostgreSQL + ArcGIS Online for planning dashboards
+- 📊 **[Geospatial Dashboards](https://gistz.nbs.go.tz/portal/apps/experiencebuilder/experience/?id=0ff51ecf002244a7a1c0f74291df7b54)**: Combining PostgreSQL + ArcGIS Online for planning dashboards
 - 📱 **Android Apps**: Custom apps for GPS location, SMS tracking, and field data collection
 
 ---
