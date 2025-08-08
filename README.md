@@ -54,7 +54,7 @@
 - 🌍 [Portfolio Website](https://sites.google.com/view/shaban-magawila)
 - 🐦 [Twitter](https://twitter.com/ShabaniMagawila)
 - 💼 [LinkedIn](https://linkedin.com/in/shabanimagawila)
-- 🗺️ [OpenStreetMap Profile](https://www.openstreetmap.org/user/SHABANI%MAGAWILA)
+- 🗺️ [OpenStreetMap Profile](https://www.openstreetmap.org/user/SHABANI%20MAGAWILA)
 - 📧 shabanimagawila@gmail.com | 📱 +255 759 968 919
 
 ---
