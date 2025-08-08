@@ -51,10 +51,10 @@
 
 ### 🌐 Let's Connect
 
-- 🌍 [Portfolio Website](#) *(add your real URL here)*
-- 🐦 [Twitter](https://twitter.com/) *(optional)*
+- 🌍 [Portfolio Website](https://sites.google.com/view/shaban-magawila#h.q6trwru0fc8)
+- 🐦 [Twitter](https://twitter.com/ShabaniMagawila) *(optional)*
 - 💼 [LinkedIn](https://linkedin.com/in/shabanimagawila)
-- 🗺️ [OpenStreetMap Profile](https://www.openstreetmap.org/user/ShabaniMagawila)
+- 🗺️ [OpenStreetMap Profile](https://www.openstreetmap.org/user/SHABANIMAGAWILA)
 - 📧 shabanimagawila@gmail.com | 📱 +255 759 968 919
 
 ---
