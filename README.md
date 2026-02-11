@@ -21,6 +21,8 @@
 
 ### 🚀 Projects & Interests
 
+- 🏫 **[School Mapping Dashboard](https://github.com/ShabaniMagawila/school_mapping_dashboard)**: Interactive React/TypeScript web app visualizing school distribution across Tanzania with maps, analytics, and filtering
+- 🧹 **[NBSCleaning Tool](https://github.com/ShabaniMagawila/NBSCleaning_Tool_v1.2)**: Python GUI application for data cleaning, splitting, geocoding, and coordinate fixing for large datasets
 - 🗺️ **[tanzania-boundaries](#)**: A Python library to download ward/administrative boundaries of Tanzania
 - 🌾 **[LULC Analysis](https://code.earthengine.google.com/ff59f8823f418c55f01ffa5e7091d1fe)**: Land Use and Land Cover classification using GEE and remote sensing indices
 - 📡 **Mini GPS Tracker**: Built with Ai-Thinker A9G + ESP32 for SMS-based GPS tracking
