@@ -171,39 +171,40 @@
 <div align="center">
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShabaniMagawila&theme=nord&column=4&margin-w=15&margin-h=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShabaniMagawila&theme=nord&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShabaniMagawila&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShabaniMagawila&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShabaniMagawila&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false&border_radius=10" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=ShabaniMagawila&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" height="180" />
 </p>
 
 ### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabaniMagawila&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabaniMagawila&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages Donut" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabaniMagawila&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&border_radius=10" alt="Top Languages" height="180" />
 </p>
 
 ### 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShabaniMagawila&theme=tokyo-night&hide_border=true&area=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShabaniMagawila&theme=tokyo-night&hide_border=false&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📌 Profile Details
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShabaniMagawila&theme=tokyonight)
+### 📌 GitHub Profile Summary
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShabaniMagawila&theme=tokyonight" alt="Repos per Language" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShabaniMagawila&theme=tokyonight" alt="Most Commit Language" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShabaniMagawila&theme=tokyonight&utcOffset=3" alt="Productive Time" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShabaniMagawila&theme=tokyonight" alt="Profile Details" />
 </p>
 
-### 📅 Commit History
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShabaniMagawila&theme=tokyonight" alt="Repos per Language" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShabaniMagawila&theme=tokyonight" alt="Most Commit Language" height="180" />
+</p>
 
-![Commit Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShabaniMagawila&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShabaniMagawila&theme=tokyonight" alt="Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShabaniMagawila&theme=tokyonight&utcOffset=3" alt="Productive Time" height="180" />
+</p>
 
 </div>
 
