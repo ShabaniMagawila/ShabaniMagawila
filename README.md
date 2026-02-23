@@ -170,9 +170,40 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShabaniMagawila&show_icons=true&theme=default&count_private=true)
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShabaniMagawila&theme=nord&column=4&margin-w=15&margin-h=15)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShabaniMagawila&layout=compact&theme=default)
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShabaniMagawila&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShabaniMagawila&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabaniMagawila&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabaniMagawila&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages Donut" width="48%" />
+</p>
+
+### 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShabaniMagawila&theme=tokyo-night&hide_border=true&area=true)
+
+### 📌 Profile Details
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShabaniMagawila&theme=tokyonight)
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShabaniMagawila&theme=tokyonight" alt="Repos per Language" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShabaniMagawila&theme=tokyonight" alt="Most Commit Language" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShabaniMagawila&theme=tokyonight&utcOffset=3" alt="Productive Time" width="32%" />
+</p>
+
+### 📅 Commit History
+
+![Commit Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShabaniMagawila&theme=tokyonight)
 
 </div>
 
