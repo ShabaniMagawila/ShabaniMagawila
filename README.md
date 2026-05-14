@@ -39,6 +39,16 @@
 > 
 > **Organization:** OpenGeoCity Tanzania | **Focus:** Healthcare, Inventory Management
 
+#### [**Data Portal**](https://github.com/ShabaniMagawila/dataportal)
+> Data portal application for managing and visualizing datasets.
+> 
+> **Tech Stack:** JavaScript | **Created:** May 2026
+
+#### [**Next Platform Starter**](https://github.com/ShabaniMagawila/next-platform-starter)
+> Starter template for building Next.js platform applications.
+> 
+> **Tech Stack:** JavaScript | **Created:** July 2025
+
 ---
 
 ### 🗺️ GIS & Geospatial Solutions
